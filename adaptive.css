@@ -1,0 +1,794 @@
+/* полный*/
+@media only screen and (max-width: 1200px) {
+
+	.btn{
+       
+        margin-left: 169px;
+    }
+
+
+    .button, .button1, .button2, .button3, .button4 {
+       
+        font-size: 18px;
+        padding-right: 20px;
+    
+    }
+
+
+
+   .header-img{
+    width: 100px;
+    height: 23px;
+   }
+
+
+    .num{
+       
+        font-weight: 700;
+        font-size: 19px
+    }
+
+
+    .phone{
+        margin-left: 90px;
+    
+    }
+    
+    .phone-text{
+        font-size: 17px;
+        font-weight: 400;
+        margin-left: 3px;
+        
+    
+    }
+    
+    
+    
+    .phone-img{
+        margin-right: 3px;
+    }
+
+
+
+
+    .header-title{
+        font-size: 38px;
+    }
+
+    .header-subsubtitle{
+        
+        font-size: 21px;
+    }
+
+
+    .history-info{
+        margin-left: 18px;
+    }
+
+    .history{
+        margin-top: 100px;
+        margin-left: 100px;
+    }
+
+
+    .gallery{
+      
+        height: 800px;
+    }
+
+    .gallery-title{
+        font-size: 45px;
+    }
+
+    .gallery-img{
+        width: 550px;
+        height: 250px;
+    }
+
+    .gallery-image{
+        width: 265px;
+        height: 250px;
+    }
+
+    .gallery-zal{
+        font-size: 35px;
+        margin-left: 150px;
+    }
+
+
+
+    .partner-title{
+        
+        font-size: 47px;
+    }
+
+    .partner-img{
+        width: 300px;
+        height: 240px;
+    }
+
+
+    .partners{
+        margin-top: 40px;
+        height: 800px;
+    }
+
+
+
+
+
+
+    .usloviya{
+      
+        height: 900px;
+    }
+
+
+
+
+    .usloviya-title{
+     
+        font-size: 46px;
+       
+    
+    }
+    
+    .usloviya-subtitle{
+        padding-top: 40px;
+    }
+    
+    
+    
+    .usluga-title{
+       
+        font-size: 30px;
+    }
+    
+    .usluga-subtitle{
+       
+        font-size: 18px;
+     
+    
+    }
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/* средний */
+@media only screen and (max-width: 992px) {
+
+
+   
+  
+
+
+
+
+    .header__burger-btn {
+        display: block;
+    }
+    .btn {
+        position: absolute;
+        right: -350px;
+        top: 0;
+        height: 520px;
+        width: 350px;
+        padding: 75px 20px 20px 20px;
+        background-color: #13262E;
+        visibility: hidden;
+        transition: transform .5s, visibility .5s;
+        will-change: transform;
+    }
+    .btn {
+        display: block;
+    }
+    .btn:not(:last-child) {
+        margin-right: 0;
+    }
+    .button, .button1, .button2, .button3, .button4 {
+        color: white;
+        font-size: 21px;
+        display: block;
+        margin-left: 40px;
+        padding-top: 45px;
+    }
+
+    .button1{
+        margin-top: 40px;
+    }
+
+    .header.open .btn {
+        transform: translateX(-100%);
+        visibility: visible;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .header-img{
+    width: 100px;
+    height: 23px;
+   }
+
+
+    .num{
+       
+        font-weight: 700;
+        font-size: 19px
+    }
+
+
+    .phone{
+        margin-left: 90px;
+    
+    }
+    
+    .phone-text{
+        font-size: 17px;
+        font-weight: 400;
+        margin-left: 3px;
+        
+    
+    }
+    
+    
+    
+    .phone-img{
+        margin-right: 3px;
+    }
+
+
+
+
+    .header-title{
+        font-size: 38px;
+    }
+
+    .header-subsubtitle{
+        
+        font-size: 21px;
+    }
+
+
+    .history-info{
+        margin-left: 18px;
+    }
+
+    .history{
+        margin-top: 90px;
+        margin-left: 100px;
+    }
+
+    .history-title{
+       
+        font-size: 45px;
+       
+        width: 344px;
+        padding-top: 10px;
+    
+    }
+    
+  
+    
+    .history-desc{
+        width: 344px;
+        font-size: 17px;
+        
+        margin-top: 21px;
+    }
+  
+.history-img{
+    width: 300px;
+    height: 300px;
+
+}
+
+
+
+
+    .card-title{
+        padding-top: 50px;
+   
+        font-size: 24px;
+        
+    }
+    
+    
+   
+    
+    
+    
+    .card-desc{
+        padding-top: 22px;
+        padding-bottom: 60px;
+        
+        font-size: 14px;
+        
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .gallery{
+      
+        height: 800px;
+    }
+
+    .gallery-title{
+        font-size: 35px;
+    }
+
+    .gallery-img{
+        width: 450px;
+        height: 200px;
+    }
+
+    .gallery-image{
+        width: 215px;
+        height: 200px;
+    }
+
+    .gallery-zal{
+        font-size: 35px;
+        margin-left: 150px;
+    }
+
+
+
+    .partner-title{
+        
+        font-size: 47px;
+    }
+
+    .partner-img{
+        width: 300px;
+        height: 240px;
+    }
+
+
+    .partners{
+        margin-top: 40px;
+        height: 800px;
+    }
+
+
+
+
+
+
+    .usloviya{
+      
+        height: 900px;
+    }
+
+
+
+
+    .usloviya-title{
+     
+        font-size: 46px;
+       
+    
+    }
+    
+    .usloviya-subtitle{
+        padding-top: 40px;
+    }
+    
+    
+    
+    .usluga-title{
+       
+        font-size: 30px;
+    }
+    
+    .usluga-subtitle{
+       
+        font-size: 18px;
+     
+    
+    }
+
+
+
+    .paket-title{
+        padding-top: 50px;
+       
+        font-size: 24px;
+        
+    }
+    
+
+    
+    .paket-desc{
+        padding-top: 22px;
+        padding-bottom: 60px;
+       
+        font-size: 13px;
+        
+    }
+    
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* маленький */
+@media only screen and (max-width: 768px) {
+
+
+    .header{
+        
+        height:400px;
+       
+    }
+
+
+    .history{
+
+        margin-bottom: 20px;
+    }
+    
+
+
+
+
+    .header-title{
+        
+        font-size: 54px;
+        color: #fff;
+       
+        margin-top: 136px;
+    }
+    
+    
+    
+    
+    .header-subtitle{
+        font-size: 48px;
+    }
+    
+    
+    
+    .header-subsubtitle{
+        margin-top: 40px;
+        font-size: 38px;
+        font-family: 'Roboto', sans-serif;
+        text-align: left;
+        
+    }
+
+
+    .header{
+        
+        height: 100vh;
+      
+    }
+
+
+
+
+    .header-img{
+        width: 100px;
+        height: 23px;
+       }
+    
+    
+        .num{
+           
+            font-weight: 700;
+            font-size: 22px
+        }
+    
+    
+        .phone{
+            margin-left: 90px;
+        
+        }
+        
+        .phone-text{
+            font-size: 19px;
+            font-weight: 400;
+            margin-left: 3px;
+            
+        
+        }
+        
+        
+        
+        .phone-img{
+            margin-right: 3px;
+        }
+    
+    
+    
+    
+        .header-title{
+            font-size: 38px;
+        }
+    
+        .header-subsubtitle{
+            
+            font-size: 21px;
+        }
+    
+    
+        .history-info{
+            margin-left: 18px;
+        }
+    
+        .history{
+            margin-top: 90px;
+            margin-left: 100px;
+        }
+    
+        .history-title{
+           
+            font-size: 45px;
+           
+            width: 344px;
+            padding-top: 10px;
+        
+        }
+        
+      
+        
+        .history-desc{
+            width: 344px;
+            font-size: 21px;
+            
+            margin-top: 21px;
+        }
+      
+         .history-img{
+            width: 300px;
+            height: 300px;
+    
+        }
+    
+    
+    
+    .card{
+        
+        width: 600px ;
+        margin-right: 55px;
+        margin-left: 55px;
+       
+        margin-top: -57px;
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+        .card-title{
+            padding-top: 50px;
+       
+            font-size: 24px;
+            
+        }
+        
+        
+       
+        
+        
+        
+        .card-desc{
+            padding-top: 22px;
+            padding-bottom: 60px;
+            
+            font-size: 14px;
+            
+        }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        .gallery{
+          
+            height: 800px;
+        }
+    
+        .gallery-title{
+            font-size: 35px;
+        }
+    
+        .gallery-img{
+            width: 450px;
+            height: 200px;
+        }
+    
+        .gallery-image{
+            width: 215px;
+            height: 200px;
+        }
+    
+        .gallery-zal{
+            font-size: 35px;
+            margin-left: 150px;
+        }
+    
+    
+    
+        .partner-title{
+            
+            font-size: 47px;
+        }
+    
+        .partner-img{
+            width: 300px;
+            height: 240px;
+        }
+    
+    
+        .partners{
+            margin-top: 40px;
+            height: 800px;
+        }
+    
+    
+    
+    
+    
+    
+        .usloviya{
+          
+            height: 900px;
+        }
+    
+    
+    
+    
+        .usloviya-title{
+         
+            font-size: 48px;
+           
+        
+        }
+        
+        .usloviya-subtitle{
+            padding-top: 40px;
+        }
+        
+        
+        
+        .usluga-title{
+           
+            font-size: 34px;
+        }
+        
+        .usluga-subtitle{
+           
+            font-size: 22px;
+         
+        
+        }
+    
+    
+    
+        .paket-title{
+            padding-top: 50px;
+           
+            font-size: 28px;
+            
+        }
+        
+    
+        
+        .paket-desc{
+            padding-top: 22px;
+            padding-bottom: 60px;
+           
+            font-size: 16px;
+            
+        }
+        
+    
+    
+
+
+
+
+}
+
+/* смартфон */
+@media only screen and (max-width: 480px) {
+
+
+
+
+
+
+
+
+
+
+
+  /* */
+}
+
+/* ретина*/
+@media only screen and (max-width: 320px) {
+  /* */
+}

@@ -1,0 +1,27 @@
+@media only screen and (max-width: 992px){
+
+
+    .povara{
+       width: 340px;
+       height: 480px;
+    }
+ 
+    .povara-title{
+        font-size: 15px;
+        margin-top: 380px;
+     
+ 
+ 
+ }
+}
+
+
+
+ @media only screen and (max-width: 768px) {
+    .povara-title{
+       font-size: 15px;
+       margin-top: 390px;
+    
+    }
+ 
+ }
